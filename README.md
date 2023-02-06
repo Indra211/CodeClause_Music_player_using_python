@@ -5,7 +5,7 @@ import fnmatch
 from pygame import mixer
 
 cv=t.Tk()
-cv.title("Indras Music")
+cv.title("Isr Music")
 cv.geometry("400x1200")
 cv.config(bg='skyblue')
 
